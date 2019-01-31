@@ -5,3 +5,8 @@
 .idea/workspace.xml
 venv/
 .idea/
+venv/Include/
+venv/Lib/site-packages/pip-9.0.3-py3.7.egg/
+venv/Lib/site-packages/setuptools-39.0.1-py3.7.egg
+venv/Scripts/python.pdb
+venv/Scripts/pythonw.pdb
