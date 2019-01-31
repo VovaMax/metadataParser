@@ -151,5 +151,3 @@ class Constraint:
         self.has_value_edit = None
         self.cascading_delete = None
         self.full_cascading_delete = None
-
-        efdgrthedgrfe2212
