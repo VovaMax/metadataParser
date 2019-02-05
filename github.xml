@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="7c425d42-fd38-4687-9004-f07a0c93a84f" name="VovaMax">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
