@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="pyc" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="SQL" />
       <mapping pattern="123" type="XML" />
     </extensionMap>
   </component>
